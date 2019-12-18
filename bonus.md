@@ -1,5 +1,3 @@
-[![General Assembly Logo](/ga_cog.png)](https://generalassemb.ly)
-
 # Classes & Donut Adventure
 
 #### Learning Objectives
