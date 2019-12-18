@@ -2,6 +2,35 @@
 
 > **NOTE:** You can ignore the `module is not defined` error you see in the console when opening `index.html` in the browser. You should still be able to test your code.
 
+## Instructions
+
+1. Fork and clone this repository.
+2. Change into the new directory.
+3. Fulfill the listed requirements, and commit after solving each prompt!
+4. Starter code is available in geom.js.
+5. You are required to turn in your submission by making a pull request on the original repository.
+
+Starter code is available in [`geom.js`](geom.js). The JS file is already linked to your HTML. You are required to turn in your submission by making a pull request on the original repository.
+
+Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 10:00am EST.
+
+# Requirements
+
+A series of prompts are located below. Complete each prompt in your `geom.js` file and **commit after each one!** 
+
+### Tips
+
+- Don't forget to test your code as you go. You can do so by creating an instance of each class and test each method on it as you go.  
+
+For example:
+
+```js
+const myRectangle = new Rectangle(10, 20); 
+console.log(myRectangle.isSquare());
+```
+
+- Open the index.html file in Google Chrome to view your console.log() messages.
+ 
 ## Rectangle
 
 Define a `Rectangle` class. Its constructor should take a `length` and `width` as arguments.
