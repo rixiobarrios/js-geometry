@@ -82,6 +82,8 @@ Define a `Shape` class. It should have the number of sides and a color associate
 
 ## Bonus (Not Required)
 
+- If you didn't finish the afternoon lab, [try finishing it up](https://git.generalassemb.ly/seir-129/js-gladiator)
+
 - Still want more practice with constructors and classes? Try [this bonus assignment](bonus.md)
 
 - Interested in looking into TDD (test driven development)? Consider testing this assignment with [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
