@@ -50,9 +50,6 @@ Augment the class with the following methods...
 
 Create a few rectangles with different lengths and widths.
 
-**Bonus**: Test your outcomes using [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
-
-
 ## Triangle
 
 Define a `Triangle` class. Its constructor should take three sides -- `sideA` `sideB` and `sideC` -- as arguments.
@@ -76,9 +73,6 @@ Augment the class with the following methods...
 
 Create a few rectangles with different lengths and widths.
 
-**Bonus**: Test your outcomes using [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
-
-
 ## LineSegment
 
 Define a `LineSegment` class. Its constructor should take two pairs of coordinates -- `x1` `y1` `x2` `y2` -- as arguments.
@@ -91,3 +85,8 @@ Augment the class with the following method...
 ## Shape
 
 Define a `Shape` class. It should have the number of sides and a color associated with it. Make the other classes inherit from it.
+
+## Bonus (Not Required)
+
+Interested in looking into TDD (test driven development) -- consider testing this assignment with [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
+
