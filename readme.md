@@ -20,15 +20,7 @@ A series of prompts are located below. Complete each prompt in your `geom.js` fi
 
 ### Tips
 
-- Don't forget to test your code as you go. You can do so by creating an instance of each class and test each method on it as you go.  
-
-For example:
-
-```js
-const myRectangle = new Rectangle(10, 20); 
-console.log(myRectangle.isSquare());
-```
-
+- Don't forget to test your code as you go. 
 - Open the index.html file in Google Chrome to view your console.log() messages.
  
 ## Rectangle
@@ -48,7 +40,7 @@ Augment the class with the following methods...
 
 > Hint: Calculate the perimeter by adding all of the sides together.
 
-Create a few rectangles with different lengths and widths.
+Create a few rectangles with different lengths and widths and test all your methods on them.
 
 ## Triangle
 
@@ -71,7 +63,7 @@ Augment the class with the following methods...
 
 > Hint: Obtuse triangles have one side that is longer in length than both of the other two sides.
 
-Create a few rectangles with different lengths and widths.
+Create a few rectangles with different lengths and widths and test all your methods on them.
 
 ## LineSegment
 
@@ -82,6 +74,8 @@ Augment the class with the following method...
 
 > Hint: Calculate the line segment by taking the square root of `((x2 - x1) ** 2) - ((y2 - y1) ** 2)`.
 
+Create a few line segments with different coordinates and use your length method on them.
+
 ## Shape
 
 Define a `Shape` class. It should have the number of sides and a color associated with it. Make the other classes inherit from it.
@@ -89,4 +83,3 @@ Define a `Shape` class. It should have the number of sides and a color associate
 ## Bonus (Not Required)
 
 Interested in looking into TDD (test driven development) -- consider testing this assignment with [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
-
