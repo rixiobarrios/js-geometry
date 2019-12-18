@@ -82,4 +82,6 @@ Define a `Shape` class. It should have the number of sides and a color associate
 
 ## Bonus (Not Required)
 
-Interested in looking into TDD (test driven development)? Consider testing this assignment with [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
+- Still want more practice with constructors and classes? Try [this bonus assignment](bonus.md)
+
+- Interested in looking into TDD (test driven development)? Consider testing this assignment with [Jasmine](https://github.com/ga-wdi-lessons/js-jasmine)!
